@@ -1,0 +1,36 @@
+# Build outputs
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.idb
+*.ipch
+*.lastbuildstate
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# ImGui settings (user-specific)
+imgui.ini
+
+# Intermediate directories
+ipch/
+*.opensdf
+*.sdf
+
+# Backup files
+*.bak
+*~
+
