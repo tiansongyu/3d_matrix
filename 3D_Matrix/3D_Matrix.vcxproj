@@ -149,6 +149,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\SDLApp.h" />
+    <ClInclude Include="..\src\core\engine.h" />
+    <ClInclude Include="..\src\math3d\math3d.h" />
     <ClInclude Include="..\vendor\imgui\imgui.h" />
     <ClInclude Include="..\vendor\imgui\imgui_impl_sdl2.h" />
     <ClInclude Include="..\vendor\imgui\imgui_impl_sdlrenderer2.h" />
